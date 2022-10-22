@@ -90,5 +90,8 @@ public class App
         {0, 0, 0},
         {0, 0, 0}
     };
+    static boolean isCrossed() {
+        return false;
+    }
     
 }
