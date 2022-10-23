@@ -90,6 +90,13 @@ public class App
         {0, 0, 0},
         {0, 0, 0}
     };
+    
+    static int [][] escenarioFull = {
+        {1, 1, 1},
+        {1, 1, 1},
+        {1, 1, 1}
+    };
+    
     static boolean isCrossed() {
         return false;
     }
